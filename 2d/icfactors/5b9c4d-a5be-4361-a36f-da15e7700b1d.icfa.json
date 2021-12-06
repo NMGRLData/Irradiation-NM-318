@@ -1,9 +1,122 @@
 {
     "AX": {
-        "error": 1e-20,
-        "fit": "default",
-        "references": [],
-        "value": 1.0
+        "error": 6.10509324918455e-05,
+        "fit": "Weighted Mean",
+        "references": [
+            {
+                "exclude": "ok",
+                "record_id": "c-03-J-3988",
+                "uuid": "5fe89b62-1418-4236-8d5a-24e1a329b2f3"
+            },
+            {
+                "exclude": "ok",
+                "record_id": "c-03-J-3989",
+                "uuid": "678aaea6-4612-4dc6-a8ab-caa1b1e1d947"
+            },
+            {
+                "exclude": "ok",
+                "record_id": "c-03-J-3990",
+                "uuid": "4b68840e-3d9d-4324-98d2-ebe36c0c2d58"
+            },
+            {
+                "exclude": "ok",
+                "record_id": "c-03-J-3991",
+                "uuid": "fee0cd67-82a2-419f-a54c-984e6796510f"
+            },
+            {
+                "exclude": "ok",
+                "record_id": "c-03-J-3992",
+                "uuid": "ee2f06f7-683e-4f99-aabd-847310b8da8b"
+            },
+            {
+                "exclude": "ok",
+                "record_id": "c-03-J-3993",
+                "uuid": "0b33be91-e04f-4e87-bf3c-7f82d7c090d9"
+            },
+            {
+                "exclude": "ok",
+                "record_id": "c-03-J-3994",
+                "uuid": "aa84bf6a-cf09-42f5-b6dc-3cc84e0892bb"
+            },
+            {
+                "exclude": "ok",
+                "record_id": "c-03-J-3995",
+                "uuid": "dad68315-e38c-4098-977a-cfe6d039d2f1"
+            },
+            {
+                "exclude": "ok",
+                "record_id": "c-03-J-3996",
+                "uuid": "9183d273-3fc6-4b8c-bd4a-0be2c7421b3b"
+            },
+            {
+                "exclude": "ok",
+                "record_id": "c-03-J-3997",
+                "uuid": "d9657921-580d-470b-badb-3c93f38a5feb"
+            },
+            {
+                "exclude": "ok",
+                "record_id": "c-03-J-3998",
+                "uuid": "74124093-860b-4613-b2a8-f1b62de8a6a3"
+            },
+            {
+                "exclude": "ok",
+                "record_id": "c-03-J-3999",
+                "uuid": "4f99c942-1691-41ac-bfbf-1d2076706398"
+            },
+            {
+                "exclude": "ok",
+                "record_id": "c-03-J-4000",
+                "uuid": "a43854ce-1260-4d7e-ad44-fa11f50de026"
+            },
+            {
+                "exclude": "ok",
+                "record_id": "c-03-J-4001",
+                "uuid": "b6a6e1c3-f29f-4d1a-8fa2-4ef3c1c1e865"
+            },
+            {
+                "exclude": "ok",
+                "record_id": "c-03-J-4002",
+                "uuid": "020ee4ea-d459-4e1c-81a2-9c9aef3d9342"
+            },
+            {
+                "exclude": "ok",
+                "record_id": "c-03-J-4003",
+                "uuid": "23832674-1ee7-40fd-a86e-e04c52a4a6e8"
+            },
+            {
+                "exclude": "ok",
+                "record_id": "c-03-J-4004",
+                "uuid": "a43a3aab-7f6e-4df4-8d58-84e0b2c8f55e"
+            },
+            {
+                "exclude": "ok",
+                "record_id": "c-03-J-4005",
+                "uuid": "be1fb161-0230-4af2-be93-8002ab3529fa"
+            },
+            {
+                "exclude": "ok",
+                "record_id": "c-03-J-4006",
+                "uuid": "adc5f1e0-9a12-4cc8-bdf0-6121d5b5f9df"
+            },
+            {
+                "exclude": "ok",
+                "record_id": "c-03-J-4007",
+                "uuid": "fba75b08-6278-47c6-a64d-0e35dcd50066"
+            },
+            {
+                "exclude": "ok",
+                "record_id": "c-03-J-4008",
+                "uuid": "6e6cd609-3250-4d9b-b994-4cc497302dce"
+            },
+            {
+                "exclude": "ok",
+                "record_id": "c-03-J-4009",
+                "uuid": "43c58bbd-7319-4104-ba91-ee4843343485"
+            }
+        ],
+        "reviewed": true,
+        "standard_ratio": 6.6009975,
+        "value": 1.0010048043100561
     },
     "CDD": {
         "error": 0.00047114308031775623,
